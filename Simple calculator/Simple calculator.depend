@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634914456 source:c:\users\wadi al madina\documents\purityn\simple calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
